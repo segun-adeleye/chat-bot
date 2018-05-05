@@ -1,4 +1,3 @@
-
 /.bundle
 /log/*
 /tmp/*
@@ -7,3 +6,4 @@
 /storage/*
 .byebug_history
 /config/master.key
+/.env
